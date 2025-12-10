@@ -47,7 +47,7 @@
         // 3. 图片路径模板 (非常重要！)
         // `{emotion}` 会被自动替换为情绪标签，如 `joy`
         // 请根据您的实际存放路径修改，确保能正确指向图片
-        imagePathTemplate: "https://raw.githubusercontent.com/asrieldummur/test/expressions/{emotion}.png",
+        imagePathTemplate: "https://raw.githubusercontent.com/asrieldummur/test/main/expressions/{emotion}.png",
 
         // 4. 要控制的头像/立绘图片的 CSS 选择器 (可能需要调整)
         // 这是SillyTavern中显示角色头像的HTML元素的标识符
