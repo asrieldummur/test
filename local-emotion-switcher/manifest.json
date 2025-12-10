@@ -1,0 +1,9 @@
+{
+  "display_name": "本地情绪表情切换器",
+  "description": "通过关键词匹配，自动切换角色表情立绘。",
+  "author": "YourName",
+  "version": "1.0.0",
+  "requirements": [],
+  "icon": "icon.png",
+  "namespace": "localEmotionSwitcher"
+}
